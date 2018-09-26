@@ -10,6 +10,7 @@ class DynamicArray
   # O(1)
   def [](index)
  
+
     
   end
 
